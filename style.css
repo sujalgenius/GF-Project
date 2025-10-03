@@ -99,7 +99,7 @@ body {
 
 /* Spotify icon position */
 #spotify-icon {
-    position: fixed;
+    position: absolute;
     top: 380;
     right: 40px;
     cursor: pointer;
