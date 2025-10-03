@@ -97,10 +97,10 @@ body {
     border-radius: 15px;
 }
 
-/* Spotify icon position */
+/* Spotify-icon position */
 #spotify-icon {
     position: absolute;
-    top: 380;
+    top: 380px;
     right: 40px;
     cursor: pointer;
     border-radius: 15px;
@@ -112,7 +112,7 @@ body {
     position: absolute;
     top: 200px;
     left: 50px;
-    background-color: rgb(245, 200, 240); 
+    background-color: rgb(247, 239, 246); 
     width: 250px;
     padding: 10px;
     text-align: center;
@@ -128,7 +128,7 @@ body {
     margin-bottom: 10px;
     font-weight: bold;
     span {
-        color: rgb(230, 117, 161)
+        color: rgb(215, 153, 176)
     }
 }
  /* Calendar (dates_grid) styling */

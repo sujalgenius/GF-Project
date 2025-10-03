@@ -39,12 +39,3 @@ for(let d = 1; d <= daysInMonth; d++) {
     dateDiv.classList.add("date");
     dates_grid.appendChild(dateDiv);
 }
-
-
-// Time-Together Counter
-
-function update_counter() {
-    const now = new Date(); //
-
-
-}
