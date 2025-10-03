@@ -100,11 +100,10 @@ body {
 /* Spotify icon position */
 #spotify-icon {
     position: fixed;
-    top: 20;
-    right: 20px;
-    width: 100px;
-    border: 2px solid blue;
-    z-index: 999;
+    top: 490;
+    right: 40px;
+    cursor: pointer;
+    border-radius: 15px;
 }
 
 /* Calendar position + styling */
