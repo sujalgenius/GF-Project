@@ -64,6 +64,13 @@ body {
     border-radius: 30px;
 }
 
+/* Position flowers-bottom-right */
+#flowers-bottom-right {
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+}
+
 /* Compliments font-size */
 #Compliments {
     font-size: 25px;
