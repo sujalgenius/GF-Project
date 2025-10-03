@@ -100,7 +100,7 @@ body {
 /* Spotify icon position */
 #spotify-icon {
     position: fixed;
-    top: 490;
+    top: 380;
     right: 40px;
     cursor: pointer;
     border-radius: 15px;
