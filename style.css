@@ -69,6 +69,16 @@ body {
     font-size: 25px;
 }
 
+/* Socials Heading position & font */
+#socials {
+    position: absolute;
+    top: 300px;
+    right: 120px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(116, 87, 113);
+}
+
 /* Instagram icon position */
 #instagram-icon {
     position: absolute;
@@ -87,14 +97,14 @@ body {
     border-radius: 15px;
 }
 
-/* Socials Heading position & font */
-#socials {
-    position: absolute;
-    top: 300px;
-    right: 120px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 30px;
-    color: rgb(116, 87, 113);
+/* Spotify icon position */
+#spotify-icon {
+    position: fixed;
+    top: 20;
+    right: 20px;
+    width: 100px;
+    border: 2px solid blue;
+    z-index: 999;
 }
 
 /* Calendar position + styling */
